@@ -1,1 +1,10 @@
 .dotfile
+*.md
+# ignore_dir/
+# *.txt
+# test.txt
+ignore_dir/*
+# ignore_dirに入っているファイル全て
+
+
+
